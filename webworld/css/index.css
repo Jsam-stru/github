@@ -1,0 +1,54 @@
+
+body{background: #F7F7F7;line-height: 25px;margin: 0;padding: 0;}
+input{margin: 0;padding: 0;}
+
+	/*.btn_login{margin-top: 8px;}*/
+	.header-wrapper{height: 52px;line-height: 52px;}
+	.bgheader{background: #499EF3;}
+	#ul_nav a{color: #fff;font-size: 16px;}
+	#ul_nav a:hover{color: #000;}
+	.dropdown i{cursor: pointer;color:#fff;}
+
+	.body-wrapper{background: #F7F7F7;padding: 40px 0 0 0;}
+	.photo{margin-right: 5px;text-align: center;}
+	.photo img{border-radius: 50%;}
+	.infoplace{
+		display: inline-block;
+		/*background:#499EF3;*/
+		background: #99cfff;
+		color: #fff; 
+		border-radius: 5px;
+		text-align: center;
+		padding: 0 10px;
+		transition:all 0.5s;
+		-webkit-transition:all 0.5s;	
+	}
+	.infoplace:hover{background: #4daaff;color: #fff;}
+
+	.bg-border{background: #fff;border-right:1px solid #ccc; border-bottom:1px solid #ccc;}
+	.ul_borderAndheight{}
+	.ul_borderAndheight a{color: #499EF3;border-bottom:1px solid blue;}
+	.ul_borderAndheight a:hover{color:#000;}
+	.col-sm-12{padding: 0;}
+	.floor .col-sm-12{padding: 10px 0;}
+	.form-controll{width: }
+	.row .nav-tabs{border: 0;;}
+	.pl10{padding-left: 10px;}
+	.body-title{border-bottom: 1px solid #ccc;line-height: 30px;height: 50px;}
+	.body-title .h2{line-height: 10px;}
+
+	.border_l{border:1px solid #ccc; border-bottom: 0;}
+	.border_r{border:1px solid #ccc; border-left:0; border-bottom:0;border-right: 0;}
+	.hot_borderAndheight{line-height:50px;height:50px; border-bottom:1px solid #ccc;}
+	.pt10{padding-top:10px;}
+	.ml10{margin-left: 10px;}
+	.h4_marginAndheight{margin:0; line-height:30px; font-size: 16px;}
+	.overhidden{overflow: hidden;}
+
+	.footer-wrapper{height: 50px;line-height: 50px;background: #F7F7F7;}
+
+	#sname_warm{color: red; font-size: 14px;}
+	.return_top{position: fixed;right: 0;bottom: 0;height: auto;width: 40px;background: #2f2f2f;text-align: center;cursor:pointer;}
+	.suggest{width: 40px;height: 45px;color: #fff;border-bottom: 5px solid #fff;line-height: 20px;}
+	.click_top{width: 40px;height: 45px;color: #fff;line-height: 20px;border-bottom: 5px solid #fff;}
+	.top_pic{background: url(../img/index.png) -40px 0;width: 33px;height: 23px;margin-top: 5px;font-size: 12px;padding: 23px 0 0 6px;}

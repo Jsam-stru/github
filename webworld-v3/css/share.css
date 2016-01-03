@@ -1,0 +1,38 @@
+.share-wrapper{
+		position:fixed;
+		z-index: 9999;
+		right: -202px;
+		top: 25%;
+		width: 202px;
+		height: auto;
+		background: #fff;
+		border:1px solid #ccc;
+	}
+	.share-wrapper .header_bottom{clear:left;background: #ccc;height: 40px;margin: 0;line-height: 40px;font-size: 16px;font-weight: bold;}
+	.share-btn{
+		position: absolute;
+		left: -25px;top: 30%;
+		background:#499EF3;
+		display: block;
+		width: 25px;
+		text-align: center;
+		color: #fff;
+		text-decoration: none;
+		border-radius: 5px 0 0 5px;
+		padding: 20px 0;
+	}
+	.ul-share{margin: 0;padding: 0 0 0 0px;}
+	.li-share{list-style-type: none;float: left; width: 100px;padding: 5px 5px;}
+	.li-share-list{transition:background 0.5s; padding: 5px 5px 5px 20px; background: url(../img/icons_0_16.png) no-repeat;}
+	/*.li-share a:hover{background:#499EF3; color: #fff;text-decoration: none;}*/
+	.sina{background-position:  0 -100px;}
+	.qqzone{background-position:  0 -48px;}
+	.wechat{background-position: 0 -1607px;}
+	.baidu{background-position: 0 -152px;}
+	.qqblog{background-position: 0 -255px;}
+	.qqfriend{background-position: 0 -2648px;}
+	.email{background-position: 0 -2337px;}
+	.tianya{background-position: 0 -1192px;}
+	.souhu{background-position: 0 -516px;}
+	.copy{background-position: 0 -2285px;}
+	.dayin{background-position: 0 0px}
